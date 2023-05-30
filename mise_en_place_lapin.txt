@@ -1,0 +1,3 @@
+Pour linux :
+Creer le fichier "lapin.sh" dans le dossier "/etc/init.d/lapin.sh"
+Ajouter dans le fichier ".bashrc" tout en bas, la ligne de commande : "bash /etc/init.d/lapin.sh"
